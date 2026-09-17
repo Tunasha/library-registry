@@ -60,7 +60,7 @@
   reference: https://github.com/arduino/library-registry/issues/7350#issuecomment-3611960375
 - host: github.com
   name: TUNASHA
-  access: deny
+  access: allow
   reference: https://github.com/arduino/library-registry/pull/9083#pullrequestreview-5172981490
 - host: github.com
   name: vpbharath
